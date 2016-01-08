@@ -1,29 +1,40 @@
-name: Gravelbike
-favicon: null
-layout_spectrum: 0.3345
-typography_spectrum: 0.15309
-title: Road bike efficiency and speed meets off road stability and handling.
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.7622431840281934
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.1866169024724513
+  brandStrength: 0.2405789496842772
+  rhythmicContrast: 0.04061109153553843
   brandColors:
-    - '#fefefe'
-    - '#000000'
-    - '#61594e'
-    - '#837e74'
-    - '#c2b8ae'
-  brandStrength: 0.6875
-  lightness: 0.5
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  lightness: 0.08927791006863117
 purpose: []
+favicon: null
+name: Gravelbike
+typography_spectrum: 0.546606826595962
