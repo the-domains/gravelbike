@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Gravelbike]]></title>
+        <description><![CDATA[Gravelbike]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 12:13:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gravel bike]]></title>
+            <description><![CDATA[<article><h1>Gravel bike</h1><p>intro</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a65f50efee27a867d4c2502589ef10a45c929505.jpg"></article>]]></description>
+            <link>undefinedgravel-bike/index.html</link>
+            <guid isPermaLink="false">8f81abf5-b5c7-46ce-9e45-5f6e75e2f0e2</guid>
+            <pubDate>Fri, 08 Jan 2016 12:13:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
