@@ -3,19 +3,19 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: intro
-datePublished: '2016-01-08T12:13:44.279Z'
-dateModified: '2016-01-08T12:13:12.781Z'
+datePublished: '2016-01-08T12:22:13.441Z'
+dateModified: '2016-01-08T12:15:53.896Z'
 title: Gravel bike
 author: []
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 sourcePath: _posts/2016-01-08-gravel-bike.md
 published: true
 url: gravel-bike/index.html
