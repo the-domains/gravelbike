@@ -4,7 +4,7 @@
         <description><![CDATA[Road bike efficiency and speed meets off road stability and handling.]]></description>
         <link>https://thegrid.ai/gravelbike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 10:56:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 13:52:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gravelbike/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/gravelbike/gravel-bike/index.html</link>
             <guid isPermaLink="false">8f81abf5-b5c7-46ce-9e45-5f6e75e2f0e2</guid>
             <pubDate>Fri, 08 Jan 2016 12:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0456ace8-386d-4984-aace-8d77abf77020.jpg">]]></description>
+            <link>https://thegrid.ai/gravelbike/057d6070-5411-426a-981a-1fcc16c44ed9/index.html</link>
+            <guid isPermaLink="false">057d6070-5411-426a-981a-1fcc16c44ed9</guid>
+            <pubDate>Sat, 09 Jan 2016 13:52:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
